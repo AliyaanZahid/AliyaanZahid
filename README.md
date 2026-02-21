@@ -1,7 +1,7 @@
 # Hey, I'm Aliyaan Zahid 👋
 
-**Full-Stack Developer** based in Baltimore, MD 🦀  
-Building scalable web apps and solving real problems with code.
+**AI Full-Stack Engineer** based in Baltimore, MD 🦀  
+Building cracked apps and solving real problems with code.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://aliyaanzahid-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliyaan-zahid-a15728230/)
@@ -42,4 +42,4 @@ Full-stack todo app with JWT auth, deployed on Heroku using Docker containers.
 
 ---
 
-*Currently @ Novizant · Open to new opportunities*
+*Currently AI Software Engineer Intern @ Novizant · Open to new opportunities!*
