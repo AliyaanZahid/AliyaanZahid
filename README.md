@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aliyaan</h1>
+Hi 👋 I'm Aliyaan
 
-I’m an AI-focused Full-Stack Engineer who enjoys building real-world systems that actually solve problems. I like working at the intersection of AI, cloud, and product, turning ideas into production-ready platforms. Most of my projects revolve around intelligent automation, agent systems, and scalable backend architectures that make engineers’ lives easier and businesses run smarter.<br><br>🤝 I’m looking for help with<br><br>Scaling production AI systems, improving system design depth, and learning how senior engineers architect distributed platforms that don’t break under real traffic.<br><br>🌱 I’m currently learning<br><br>Advanced system design, agentic AI workflows, cloud architecture patterns (AWS + Azure), and how to optimize LLM pipelines for speed, cost, and reliability, because performance matters as much as intelligence.<br><br>💬 Ask me about<br><br>Building AI products from idea → architecture → deployment<br><br>AWS + Azure cloud architecture<br><br>Designing APIs and backend systems that scale<br><br>Event-driven serverless systems<br><br>LLM integrations, RAG pipelines, and automation agents<br><br>⚡ Fun fact<br><br>My system requirements: caffeine, good humor, and a long-term goal of using tech to leave a positive mark on the world
+AI Full-Stack Engineer building real-world systems with AI, cloud, and scalable backends. I enjoy turning ideas into production-ready platforms and solving practical problems with clean architecture.
+
+Currently learning: system design, distributed systems, and optimizing LLM pipelines  
+Ask me about: AI apps, cloud architecture, APIs, automation, and RAG systems   
+Fun fact about me: Powered by caffeine and curiosity
 
 
 ## 🌐 Socials:
