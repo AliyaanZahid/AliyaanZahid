@@ -15,11 +15,7 @@ Fun fact about me: Powered by caffeine and curiosity
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliyaanZahid&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyaanZahid&theme=transparent&hide_border=true"/>
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AliyaanZahid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
