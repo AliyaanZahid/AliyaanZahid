@@ -16,8 +16,3 @@ Fun fact about me: Powered by caffeine and curiosity
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyaanZahid&theme=transparent&hide_border=true"/>
 </p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
